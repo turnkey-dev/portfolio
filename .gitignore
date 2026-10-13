@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Сборки
+build/
+dist/
+*.exe
+*.zip
+
+# Unreal Engine
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Node
+node_modules/
+
+# Системное
+Thumbs.db
+desktop.ini
+.DS_Store
